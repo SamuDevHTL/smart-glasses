@@ -64,7 +64,3 @@ If text detection is poor:
 2. Ensure Tesseract OCR is properly installed
 3. Try adjusting the distance between the camera and text
 4. Make sure the text is in focus
-
-## License
-
-This project is open source and available under the MIT License. 
